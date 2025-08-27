@@ -1,2 +1,2 @@
-# Criaturas-m-gicas
+# Criaturas-magicas
 atividade valendo nota
